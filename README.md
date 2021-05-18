@@ -3,7 +3,10 @@ A cochlear implant is an artificial aid that preserves hearing to some extent. I
 choice for those who have serious deafness due to inner-ear injury who have exhausted all other 
 options, including hearing aids.
 
+
+<div>
 <img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/Signal.png" width="200" >
 <img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/Pre-emphesized.png" width="200" >
-<img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/1.png" width="200" >
-<img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/5.png" width="200" >
+<img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/1.png" width="220" >
+<img SRC="https://github.com/HansamalDharmananda/Band-Pass-filtering-for-Cochlear-Implant-/blob/main/Images/5.png" width="250" >
+</div>
